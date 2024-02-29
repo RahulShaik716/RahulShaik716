@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RahulShaik716
-- 👀 I’m interested in AI, JWST, DS 
+- 👀 I’m interested in FullStack Development, AI , DS
 - 🌱 I’m currently learning DS, AI 
-- 💞️ I’m looking to collaborate on DS, AI, JWST
+- 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me ...
 
 <!---
