@@ -10,7 +10,7 @@ Backend Technologies: Node.js, Express.js, RESTful APIs
 Databases: SQL (PostgreSQL, SQL Server), NoSQL (MongoDB)
 Cloud Platforms: AWS, Azure
 DevOps & Containers: Docker, Kubernetes, Git, GitHub, Azure DevOps
-Security Tools: SonarQube, Snyk (learning), Clair (learning)
+Security Tools: SonarQube
 AI/ML Frameworks: TensorFlow, Keras, sci-kit-learn, OpenCV
 Data Processing: Pandas, NumPy, Matplotlib
 🌟 Areas of Expertise
